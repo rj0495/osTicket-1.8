@@ -17,7 +17,7 @@ if (($lang = Internationalization::getCurrentLanguage())
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title><?php echo Format::htmlchars($title); ?></title>
+    <title>EPICMC Support</title>
     <meta name="description" content="customer support platform">
     <meta name="keywords" content="osTicket, Customer support system, support ticket system">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
